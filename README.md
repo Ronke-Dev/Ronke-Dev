@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ronke
-- 👀 I’m interested in internships or entry level junior roles as a Front End Developer or Full Stack Developer
+- 👀 I am doing extraordinary things
 - 🌱 I’m currently learning Fullstack Development with JavaScript, offered by The Odin Project
 - 💪🏽 Other Coding Websites i Learn from: Freecodecamp, MDN web docs, W3schools, Educativeio
 - 💞️ I’m looking to collaborate on software development projects
